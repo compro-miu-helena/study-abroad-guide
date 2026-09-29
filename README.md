@@ -1,7 +1,7 @@
-# Helena Explora Study Abroad Guide (Python/Gradio)
+# Explora Study Abroad Guide (Python/Gradio)
 
 Python + Gradio port of the chatbot from
-[helenapedro/ai-chatbot-app](https://github.com/compro-miu-helena/study-abroad-guide.git):
+[helenapedro/study-abroad-guide](https://github.com/compro-miu-helena/study-abroad-guide.git):
 a study-abroad guide giving general information about studying in the United States.
 
 ## Files
