@@ -15,6 +15,6 @@ a study-abroad guide giving general information about studying in the United Sta
 ## Setup
 
 1. `pip install openai python-dotenv gradio`
-2. Get an OpenAI API key: platform.openai.com → Billing → add **$5** credit → API keys → create key. (ChatGPT Plus does not include API credit; this assignment costs a few cents on `gpt-4o-mini`.)
+2. Get an OpenAI API key
 3. `cp .env.example .env`, paste the key.
 4. Open the notebook in Cursor and run all cells. Run the last cell (`demo.launch(share=True)`) near submission time — links expire after ~72h.
