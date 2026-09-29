@@ -18,9 +18,3 @@ a study-abroad guide giving general information about studying in the United Sta
 2. Get an OpenAI API key: platform.openai.com → Billing → add **$5** credit → API keys → create key. (ChatGPT Plus does not include API credit; this assignment costs a few cents on `gpt-4o-mini`.)
 3. `cp .env.example .env`, paste the key.
 4. Open the notebook in Cursor and run all cells. Run the last cell (`demo.launch(share=True)`) near submission time — links expire after ~72h.
-
-## Submission
-
-- Sakai: the Gradio shareable link (`*.gradio.live`).
-- Plus the GitHub repo URL (notebook + files) or the notebook exported as `.html`.
-- Keep output cells visible — do not clear them.
