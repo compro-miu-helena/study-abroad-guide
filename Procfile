@@ -1,0 +1,1 @@
+web: sh -c 'cd render && python app.py'
